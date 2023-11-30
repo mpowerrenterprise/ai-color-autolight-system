@@ -103,7 +103,7 @@ We will now install the necessary software and configure the AI to gain access t
 
 ### 4.2 Output
 
-<img src="docs/media/4-demo.gif" alt="Output" width="100%">
+<img src="docs/media/5-demo.gif" alt="Output" width="100%">
 
 ## Social Links
 
