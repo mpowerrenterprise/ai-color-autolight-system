@@ -41,7 +41,7 @@ It is an automated lighting control system powered by Arduino and Computer Visio
 
 ![Circuit Diagram](docs/media/0-circuit-diagram.png)
 
-| Objects       | Pin No  |
+| LEDs          | Pin No  |
 | ------------- | ------- |
 | **RED LED**   | Pin: 13 |
 | **Green LED** | Pin: 12 |
@@ -59,7 +59,7 @@ To upload Firmata, open Arduino IDE and choose the correct COM port and **File -
 
 ### 3.3 Setup Software
 
-We will now install the necessary software and configure the AI to gain access to the Arduino Board. This project utilizes essential libraries, including OpenCV and PyFirmata. We need to install all the required dependencies on the development computer.
+We will now install the necessary tools to gain access to the Arduino Board. This project utilizes essential libraries, including OpenCV and PyFirmata. We need to install all the required dependencies on the development computer.
 
 - **Step 01:** Install Python
 
