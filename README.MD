@@ -7,7 +7,7 @@
     ├── research                               # Contains pre-research experiments.
     │   ├── 0-code-references                      # Contains reference codes.
     │   ├── 1-keras-based-app                      # Contains keras-based app using Teachable Machine.
-    ├── source                                 # Contains main source code.
+    ├── source                                 # Contains project source code.
     │   ├── main.py                                # HSV Color Detection-based app.
     └── README.MD                              # Readme Content.
 
