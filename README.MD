@@ -15,7 +15,7 @@
 
 ## 01 Introduction
 
-It is an automated lighting control system powered by Arduino and Computer Vision, utilizing AI technology to control lighting operations. It uses the HSV color detection algorithm and Firmata protocol to let Python communicate with Arduino to turn on LEDs.
+This is an automated lighting control system powered by Arduino and Computer Vision, utilizing AI technology for color detection to automate lighting operations. The system uses the HSV color detection algorithm and the Firmata protocol to enable Python to communicate with Arduino and turn on LEDs.
 
 ![Circuit Diagram](docs/media/1-banner-image.png)
 
