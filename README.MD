@@ -70,7 +70,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 - **Step 02:** Navigate to the specified location in CMD/Terminal.
 
   ```
-  ai-autolight-system/docs/requirements.txt
+  ai-color-autolight-system/docs/requirements.txt
   ```
 
 - **Step 03:** Execute the given command to install all dependencies.
@@ -84,7 +84,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 - **Source Directory:**
 
   ```
-  ai-autolight-system\source\main.py
+  ai-color-autolight-system\source\main.py
   ```
 
 ### 4.1 Setps to run
