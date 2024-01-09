@@ -1,4 +1,4 @@
-# AI AutoLihgt System
+# AI Color AutoLight System
 
 ## Repo Structure
 
