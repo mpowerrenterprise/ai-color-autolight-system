@@ -1,4 +1,4 @@
-# AI COLOR AUTOLIGHT SYSTEM
+# AI Color AutoLight System
 
 ## Repo Structure
 
@@ -105,7 +105,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 
 <img src="docs/media/4-demo.gif" alt="Output" width="100%">
 
-# CONTACT
+# Contact
 
 ### Website: 
 
